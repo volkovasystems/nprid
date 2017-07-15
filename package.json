@@ -1,0 +1,37 @@
+{
+  "name": "nprid",
+  "version": "0.0.0",
+  "description": "Get process PID by name.",
+  "main": "nprid.js",
+  "scripts": {
+    "test": "mocha nprid-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/nprid.git"
+  },
+  "keywords": [
+    "get",
+    "process",
+    "pid",
+    "name",
+    "nprid"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/nprid/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/nprid#readme",
+  "dependencies": {
+    "arid": "^0.29.0",
+    "comex": "^0.24.0",
+    "depher": "^0.36.0",
+    "falzy": "^0.20.0",
+    "numric": "^0.17.0",
+    "pedon": "^0.15.0",
+    "shft": "^0.4.0",
+    "wichevr": "^0.13.0",
+    "zelf": "^0.12.0"
+  }
+}
